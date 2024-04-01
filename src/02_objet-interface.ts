@@ -40,6 +40,6 @@ const strider:character ={
 strider.homerown='RIVERDELL';
 
 
-console.table(strider)
+console.table(strider);
 
 export{};
