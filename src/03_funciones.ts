@@ -27,6 +27,7 @@ function multiply (firtsNumber:number, secondNumber?:number, base:number =2){
 }
 const multiplyResult: number = multiply(5);
 console.log({multiplyResult});
+console.table({multiplyResult});
 
 //#endregion funcion
 
