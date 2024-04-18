@@ -9,4 +9,6 @@ console.log('**************************************');
 //import ('./05-basic-destructuring');
 //import('./06-function-destructuring.ts');
 //import('./07-import-export.ts');
-import ('./08-clases');
+//import ('./08-clases');
+//import ('./09-generics');
+import ('./10-decorator');
